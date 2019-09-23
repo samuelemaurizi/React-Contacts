@@ -1,0 +1,12 @@
+
+// DataBase configuration
+db{
+  project: React01
+  cluster: Contact
+  userName: samreact
+  userPassword: react02
+} 
+
+// To start the server
+// cd in the main folder 
+npm run server
