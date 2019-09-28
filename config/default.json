@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://samreact:react02@contact-cz14x.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://{userName}:{userPassword}@contact-cz14x.mongodb.net/test?retryWrites=true&w=majority",
   "jwtSecret": "secret"
 }
