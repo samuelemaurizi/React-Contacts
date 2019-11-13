@@ -56,7 +56,7 @@ Navbar.propsTypes = {
 };
 
 Navbar.defaultProps = {
-  title: 'My Contacs',
+  title: 'My Contacts',
   icon: 'fas fa-id-card-alt'
 };
 

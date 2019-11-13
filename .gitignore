@@ -8,5 +8,6 @@ node_modules/
 /client/.env.production.local
 
 client/debug.log
+debug.log
 info.txt
 npm-debug.log*
